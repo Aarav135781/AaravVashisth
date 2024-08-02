@@ -1,6 +1,8 @@
 # Hi there! 👋
 
-I'm **Aarav Vashisth**, a Full Stack Developer with a passion for creating innovative web applications. 🚀
+"I'm Aarav Vashisth, an enthusiastic Full Stack Developer dedicated to building transformative web applications and pushing the boundaries of technology. 🌟"
+
+
 
 ## 🚀 Technologies & Tools
 
@@ -18,10 +20,10 @@ I'm **Aarav Vashisth**, a Full Stack Developer with a passion for creating innov
 - **Project 1:** [Awesome Project](https://github.com/AaravVashisth/awesome-project) - A brief description of what the project does.
 - **Project 2:** [Another Project](https://github.com/AaravVashisth/another-project) - A brief description of what the project does.
 
-## 🌱 I'm currently learning
+## 🌱 I'm currently Working :-
 
-- Advanced React patterns
-- Serverless architecture with AWS
+- Backend :- Nodejs , Expressjs, MongoDB .
+- Fronted :- HTML ,SCSS.
 
 ## 📫 How to reach me
 
